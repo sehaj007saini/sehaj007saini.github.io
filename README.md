@@ -1,65 +1,150 @@
-SEHAJPREET SINGH
+# Hi, I'm Sehajpreet Singh 👋
 
-Computer Science Undergraduate | Java Full-Stack Developer
+### Computer Science Undergraduate | Java Full-Stack Developer
 
-I’m a Computer Science undergraduate passionate about software development and problem solving. I build full-stack web applications using Java, Spring Boot, React, and PostgreSQL, and I’m currently exploring Machine Learning.
+I'm a Computer Science undergraduate passionate about software development, problem solving, and building practical applications.
 
+I work primarily with **Java, Spring Boot, React, and PostgreSQL**, and I'm currently exploring **Machine Learning**.
 
-ABOUT ME
+---
 
-I’m interested in building practical software, learning new technologies, and solving real-world problems. I enjoy working on projects that help me improve my development and problem-solving skills.
+## About Me
 
+I'm currently pursuing a **B.Tech in Computer Science and Engineering** at Amritsar Group of Colleges.
 
-SKILLS
+I enjoy building full-stack applications, developing REST APIs, working with databases, and learning new technologies through practical projects.
 
-Java • JavaScript • SQL
-React • HTML • CSS • Tailwind CSS
-Spring Boot • REST APIs • PostgreSQL
-Git • GitHub • Docker • Maven • Postman
-Data Structures & Algorithms • OOP • DBMS
+I'm also interested in open-source development and continuously improving my problem-solving and development skills.
 
+---
 
-PROJECTS
+## 🛠️ Technical Skills
 
-E-Commerce Website
-Spring Boot • React • PostgreSQL • JWT
+### Languages
+- Java
+- JavaScript
+- SQL
 
-Full-stack e-commerce platform with JWT authentication and CRUD functionality for users, products, cart, and orders.
+### Frontend
+- HTML
+- CSS
+- React
+- Tailwind CSS
 
+### Backend & Database
+- Spring Boot
+- REST APIs
+- PostgreSQL
 
-Disease Prediction Website
-Spring Boot • React • FastAPI • PostgreSQL • Random Forest
+### Tools & Technologies
+- Git
+- GitHub
+- Maven
+- Docker
+- Postman
+- VS Code
 
-Full-stack disease prediction platform with authentication, REST APIs, PostgreSQL database, and a Random Forest machine learning model.
+### Core Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
 
+### Currently Learning
+- Machine Learning
 
-Weather App
-JavaScript • API Integration
+---
 
-Web application that displays real-time weather data using a public API.
+## 🚀 Projects
 
+### 1. E-Commerce Website
 
-ACHIEVEMENTS
+**Tech Stack:** Spring Boot · React · PostgreSQL · JWT
 
-• 93% in NPTEL’s Joy of Computing Using Python
-• Contributor, GirlScript Summer of Code
-• 1400+ rapid chess rating
-• Active LeetCode problem solver
+A full-stack e-commerce platform built with a React frontend and Spring Boot backend.
 
+**Key Features:**
+- Secure JWT-based authentication
+- RESTful APIs
+- User management
+- Product management
+- Shopping cart functionality
+- Order management
+- Full CRUD operations
+- PostgreSQL database integration
 
-EDUCATION
+**Repository:** [View on GitHub](#)
 
-B.Tech in Computer Science and Engineering
-Amritsar Group of Colleges
+---
+
+### 2. Disease Prediction Website
+
+**Tech Stack:** Spring Boot · React · FastAPI · PostgreSQL · Random Forest
+
+A full-stack disease prediction platform that combines web development with machine learning.
+
+**Key Features:**
+- React-based frontend
+- Spring Boot backend
+- User authentication
+- REST APIs
+- FastAPI machine learning microservice
+- Random Forest prediction model
+- PostgreSQL database
+- User and patient data management
+- Communication between Spring Boot and FastAPI through REST
+- Real-time predictions
+
+**Repository:** [View on GitHub](#)
+
+---
+
+### 3. Weather App
+
+**Tech Stack:** JavaScript · API Integration
+
+A web application that displays real-time weather information using a public API.
+
+**Key Features:**
+- Public weather API integration
+- Real-time weather data
+- JavaScript-based implementation
+- Simple and responsive interface
+
+**Repository:** [View on GitHub](#)
+
+---
+
+## 🏆 Achievements
+
+- **93%** in NPTEL's *Joy of Computing Using Python*
+- **Contributor** — GirlScript Summer of Code
+- **1400+** rapid chess rating
+- Active problem solver on **LeetCode**
+
+---
+
+## 🎓 Education
+
+### B.Tech in Computer Science and Engineering
+
+**Amritsar Group of Colleges**  
 2024 – 2028
 
+---
 
-CONTACT
+## 📫 Connect With Me
 
-Email: sehajsainif5@gmail.com
+**Email:**  
+[sehajsainif5@gmail.com](mailto:sehajsainif5@gmail.com)
 
-LinkedIn:
-https://www.linkedin.com/in/sehajpreet-singh-226775336
+**LinkedIn:**  
+[linkedin.com/in/sehajpreet-singh-226775336](https://www.linkedin.com/in/sehajpreet-singh-226775336)
 
-LeetCode:
-https://leetcode.com/u/Sehaj007saini/
+**LeetCode:**  
+[leetcode.com/u/Sehaj007saini](https://leetcode.com/u/Sehaj007saini/)
+
+---
+
+### 💡 Always learning. Always building.
+
+© 2026 Sehajpreet Singh
