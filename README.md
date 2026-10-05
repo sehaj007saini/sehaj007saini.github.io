@@ -72,7 +72,7 @@ A full-stack e-commerce platform built with a React frontend and Spring Boot bac
 - Full CRUD operations
 - PostgreSQL database integration
 
-**Repository:** [View on GitHub](#)
+**Repository:** https://github.com/sehaj007saini/E-Commerce(#)
 
 ---
 
@@ -94,7 +94,7 @@ A full-stack disease prediction platform that combines web development with mach
 - Communication between Spring Boot and FastAPI through REST
 - Real-time predictions
 
-**Repository:** [View on GitHub](#)
+**Repository:** https://github.com/sehaj007saini/Disease-Prediction(#)
 
 ---
 
@@ -109,8 +109,6 @@ A web application that displays real-time weather information using a public API
 - Real-time weather data
 - JavaScript-based implementation
 - Simple and responsive interface
-
-**Repository:** [View on GitHub](#)
 
 ---
 
